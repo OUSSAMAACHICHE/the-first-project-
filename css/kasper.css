@@ -226,7 +226,7 @@ header nav .form i {
 /* start landing  */
 .landing {
     min-height: 100vh;
-    background-image: url(/images/download.jfif);
+    background-image: url(images/download.jfif);
     background-size: cover;
     position: relative;
 }
@@ -379,7 +379,7 @@ header nav .form i {
 .design {
     padding-top: var(--sectionpadding);
     padding-bottom: var(--sectionpadding);
-    background-image: url(/images/download\ \(1\).jfif);
+    background-image: url(images/download\ \(1\).jfif);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -611,7 +611,7 @@ header nav .form i {
     padding-top: var(--sectionpadding);
     padding-bottom: var(--sectionpadding);
     text-align: center;
-    background-image: url(/images/stats.png);
+    background-image: url(images/stats.png);
     background-color: green;
     background-size: cover;
     position: relative;
@@ -797,7 +797,7 @@ header nav .form i {
 /* end skills  */
 /* start quete  */
 .quete {
-    background-image: url(/images/quote.jpg);
+    background-image: url(images/quote.jpg);
     background-size: cover;
     text-align: center;
     color: white;
@@ -926,7 +926,7 @@ header nav .form i {
 .subscribe {
     padding-top: var(--sectionpadding);
     padding-bottom: var(--sectionpadding);
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("images/subscribe.jpg");
     background-size: cover;
     color: white;
     position: relative;
@@ -1071,7 +1071,7 @@ header nav .form i {
 .footer {
     padding-top: calc(var(--sectionpadding) / 2);
     padding-bottom: calc(var(--sectionpadding) / 2);
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     background-size: cover;
     color: white;
     text-align: center;
