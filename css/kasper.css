@@ -226,7 +226,7 @@ header nav .form i {
 /* start landing  */
 .landing {
     min-height: 100vh;
-    background-image: url(images/download.jfif);
+    background-image: url(../images/download.jfif);
     background-size: cover;
     position: relative;
 }
